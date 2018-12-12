@@ -1,0 +1,23 @@
+{
+  "name": "build-a-bot",
+  "version": "1.0.0",
+  "description": "De officiële BuildABot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "(vul hier je eigen in)"
+  ],
+  "author": "(vul hier je eigen in)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "eris": "^0.9.0",
+    "ms": "^2.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
